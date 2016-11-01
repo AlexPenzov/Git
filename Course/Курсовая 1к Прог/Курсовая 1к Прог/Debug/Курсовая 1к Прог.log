@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\shurik\documents\visual studio 2015\projects\курсовая 1к прог\курсовая 1к прог\main.cpp(51): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\shurik\documents\visual studio 2015\projects\курсовая 1к прог\курсовая 1к прог\main.cpp(62): warning C4305: инициализация: усечение из "double" к "float"
+c:\users\shurik\documents\visual studio 2015\projects\курсовая 1к прог\курсовая 1к прог\main.cpp(92): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\shurik\documents\visual studio 2015\projects\курсовая 1к прог\курсовая 1к прог\main.cpp(95): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Курсовая 1к Прог.vcxproj -> C:\Users\Shurik\Documents\Visual Studio 2015\Projects\Курсовая 1к Прог\Debug\Курсовая 1к Прог.exe
+  Курсовая 1к Прог.vcxproj -> C:\Users\Shurik\Documents\Visual Studio 2015\Projects\Курсовая 1к Прог\Debug\Курсовая 1к Прог.pdb (Partial PDB)
